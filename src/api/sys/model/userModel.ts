@@ -35,4 +35,6 @@ export interface GetUserInfoModel {
   avatar: string;
   // 介绍
   desc?: string;
+  // 绰号
+  nickname: string;
 }
